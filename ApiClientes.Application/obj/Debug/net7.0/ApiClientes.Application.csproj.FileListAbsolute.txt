@@ -1,0 +1,17 @@
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Application\bin\Debug\net7.0\ApiClientes.Application.deps.json
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Application\bin\Debug\net7.0\ApiClientes.Application.dll
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Application\bin\Debug\net7.0\ApiClientes.Application.pdb
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Application\bin\Debug\net7.0\ApiClientes.Domain.dll
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Application\bin\Debug\net7.0\ApiClientes.Domain.pdb
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Application\obj\Debug\net7.0\ApiClientes.Application.csproj.AssemblyReference.cache
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Application\obj\Debug\net7.0\ApiClientes.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Application\obj\Debug\net7.0\ApiClientes.Application.AssemblyInfoInputs.cache
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Application\obj\Debug\net7.0\ApiClientes.Application.AssemblyInfo.cs
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Application\obj\Debug\net7.0\ApiClientes.Application.csproj.CoreCompileInputs.cache
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Application\obj\Debug\net7.0\ApiClientes.Application.csproj.CopyComplete
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Application\obj\Debug\net7.0\ApiClientes.Application.dll
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Application\obj\Debug\net7.0\refint\ApiClientes.Application.dll
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Application\obj\Debug\net7.0\ApiClientes.Application.pdb
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Application\obj\Debug\net7.0\ref\ApiClientes.Application.dll
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Application\bin\Debug\net7.0\ApiClientes.Infra.Data.dll
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Application\bin\Debug\net7.0\ApiClientes.Infra.Data.pdb

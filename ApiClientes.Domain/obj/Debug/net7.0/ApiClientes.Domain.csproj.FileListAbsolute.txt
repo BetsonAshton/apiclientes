@@ -1,0 +1,12 @@
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Domain\bin\Debug\net7.0\ApiClientes.Domain.deps.json
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Domain\bin\Debug\net7.0\ApiClientes.Domain.dll
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Domain\bin\Debug\net7.0\ApiClientes.Domain.pdb
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Domain\obj\Debug\net7.0\ApiClientes.Domain.csproj.AssemblyReference.cache
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Domain\obj\Debug\net7.0\ApiClientes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Domain\obj\Debug\net7.0\ApiClientes.Domain.AssemblyInfoInputs.cache
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Domain\obj\Debug\net7.0\ApiClientes.Domain.AssemblyInfo.cs
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Domain\obj\Debug\net7.0\ApiClientes.Domain.csproj.CoreCompileInputs.cache
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Domain\obj\Debug\net7.0\ApiClientes.Domain.dll
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Domain\obj\Debug\net7.0\refint\ApiClientes.Domain.dll
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Domain\obj\Debug\net7.0\ApiClientes.Domain.pdb
+D:\workspace\C#\API\TesteEmpresa\ApiClientes\ApiClientes.Domain\obj\Debug\net7.0\ref\ApiClientes.Domain.dll

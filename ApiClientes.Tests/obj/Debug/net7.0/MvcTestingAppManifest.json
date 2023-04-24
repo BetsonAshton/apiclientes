@@ -1,0 +1,6 @@
+{
+  "ApiClientes.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\workspace\\C#\\API\\TesteEmpresa\\ApiClientes\\ApiClientes.Application",
+  "ApiClientes.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\workspace\\C#\\API\\TesteEmpresa\\ApiClientes\\ApiClientes.Domain",
+  "ApiClientes.Infra.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\workspace\\C#\\API\\TesteEmpresa\\ApiClientes\\ApiClientes.Infra.Data",
+  "ApiClientes.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\workspace\\C#\\API\\TesteEmpresa\\ApiClientes\\ApiClientes.Services"
+}
